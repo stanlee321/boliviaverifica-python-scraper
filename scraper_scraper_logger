@@ -1,0 +1,134 @@
+2021-03-29 21:46:50,185 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-29 21:47:09,370 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-29 21:47:09,370 WDM INFO ====== WebDriver manager ======
+2021-03-29 21:47:10,114 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-29 21:47:10,114 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-29 21:47:10,667 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-29 21:47:10,925 WDM INFO Trying to download new driver from https://chromedriver.storage.googleapis.com/89.0.4389.23/chromedriver_linux64.zip
+2021-03-29 21:47:12,880 WDM INFO Driver has been saved in cache [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23]
+2021-03-29 21:47:53,327 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-29 21:47:53,328 WDM INFO ====== WebDriver manager ======
+2021-03-29 21:47:53,385 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-29 21:47:53,385 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-29 21:47:53,661 WDM INFO Driver [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23/chromedriver] found in cache
+2021-03-29 21:51:52,328 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-29 21:51:52,329 WDM INFO ====== WebDriver manager ======
+2021-03-29 21:51:52,388 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-29 21:51:52,389 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-29 21:51:52,679 WDM INFO Driver [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23/chromedriver] found in cache
+2021-03-29 21:55:10,998 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-29 21:55:10,999 WDM INFO ====== WebDriver manager ======
+2021-03-29 21:55:11,65 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-29 21:55:11,65 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-29 21:55:11,414 WDM INFO Driver [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23/chromedriver] found in cache
+2021-03-29 21:57:53,144 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-29 21:57:53,144 WDM INFO ====== WebDriver manager ======
+2021-03-29 21:57:53,204 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-29 21:57:53,204 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-29 21:57:53,478 WDM INFO Driver [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23/chromedriver] found in cache
+2021-03-29 21:58:06,936 My_login ERROR ERROR!!! at time: 2021-03-29 21:58:06, 'list' object has no attribute 'get_attribute'
+2021-03-29 21:58:55,685 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-29 21:58:55,685 WDM INFO ====== WebDriver manager ======
+2021-03-29 21:58:55,767 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-29 21:58:55,767 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-29 21:58:56,76 WDM INFO Driver [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23/chromedriver] found in cache
+2021-03-29 21:59:10,31 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-29 21:59:10,32 WDM INFO ====== WebDriver manager ======
+2021-03-29 21:59:10,93 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-29 21:59:10,93 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-29 21:59:10,388 WDM INFO Driver [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23/chromedriver] found in cache
+2021-03-30 21:28:52,620 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-30 21:28:52,645 WDM INFO ====== WebDriver manager ======
+2021-03-30 21:28:53,320 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-30 21:28:53,320 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-30 21:28:54,92 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-30 21:28:54,345 WDM INFO Trying to download new driver from https://chromedriver.storage.googleapis.com/89.0.4389.23/chromedriver_linux64.zip
+2021-03-30 21:28:56,878 WDM INFO Driver has been saved in cache [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23]
+2021-03-30 21:38:13,386 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-30 21:38:13,387 WDM INFO ====== WebDriver manager ======
+2021-03-30 21:38:13,451 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-30 21:38:13,451 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-30 21:38:13,812 WDM INFO Driver [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23/chromedriver] found in cache
+2021-03-30 21:42:45,814 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-30 21:42:45,815 WDM INFO ====== WebDriver manager ======
+2021-03-30 21:42:45,892 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-30 21:42:45,892 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-30 21:42:46,232 WDM INFO Driver [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23/chromedriver] found in cache
+2021-03-30 21:49:46,133 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-30 21:49:46,135 WDM INFO ====== WebDriver manager ======
+2021-03-30 21:49:46,234 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-30 21:49:46,235 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-30 21:49:46,586 WDM INFO Driver [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23/chromedriver] found in cache
+2021-03-30 21:53:30,233 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-30 21:53:30,234 WDM INFO ====== WebDriver manager ======
+2021-03-30 21:53:30,296 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-30 21:53:30,296 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-30 21:53:30,559 WDM INFO Driver [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23/chromedriver] found in cache
+2021-03-30 22:02:19,350 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-30 22:02:19,352 WDM INFO ====== WebDriver manager ======
+2021-03-30 22:02:19,422 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-30 22:02:19,422 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-30 22:02:19,954 WDM INFO Driver [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23/chromedriver] found in cache
+2021-03-31 21:37:16,57 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-31 21:37:16,83 WDM INFO ====== WebDriver manager ======
+2021-03-31 21:37:18,432 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-31 21:37:18,432 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-31 21:37:19,289 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-31 21:37:19,555 WDM INFO Trying to download new driver from https://chromedriver.storage.googleapis.com/89.0.4389.23/chromedriver_linux64.zip
+2021-03-31 21:37:21,457 WDM INFO Driver has been saved in cache [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23]
+2021-03-31 21:52:29,818 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-31 21:53:39,271 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-31 21:53:39,271 WDM INFO ====== WebDriver manager ======
+2021-03-31 21:53:39,335 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-31 21:53:39,336 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-31 21:53:39,698 WDM INFO Driver [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23/chromedriver] found in cache
+2021-03-31 21:55:51,568 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-31 21:55:51,568 WDM INFO ====== WebDriver manager ======
+2021-03-31 21:55:51,630 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-31 21:55:51,631 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-31 21:55:51,917 WDM INFO Driver [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23/chromedriver] found in cache
+2021-03-31 22:02:36,559 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-31 22:02:36,559 WDM INFO ====== WebDriver manager ======
+2021-03-31 22:02:36,618 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-31 22:02:36,619 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-31 22:02:36,979 WDM INFO Driver [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23/chromedriver] found in cache
+2021-03-31 22:03:20,690 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-31 22:03:20,691 WDM INFO ====== WebDriver manager ======
+2021-03-31 22:03:20,769 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-31 22:03:20,769 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-31 22:03:21,41 WDM INFO Driver [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23/chromedriver] found in cache
+2021-03-31 22:13:44,217 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-31 22:13:44,217 WDM INFO ====== WebDriver manager ======
+2021-03-31 22:13:44,276 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-31 22:13:44,277 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-31 22:13:44,677 WDM INFO Driver [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23/chromedriver] found in cache
+2021-03-31 22:14:52,479 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-31 22:14:52,480 WDM INFO ====== WebDriver manager ======
+2021-03-31 22:14:52,548 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-31 22:14:52,549 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-31 22:14:52,829 WDM INFO Driver [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23/chromedriver] found in cache
+2021-03-31 22:15:27,67 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-31 22:15:27,67 WDM INFO ====== WebDriver manager ======
+2021-03-31 22:15:27,130 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-31 22:15:27,130 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-31 22:15:27,406 WDM INFO Driver [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23/chromedriver] found in cache
+2021-03-31 22:15:55,415 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-31 22:15:55,416 WDM INFO ====== WebDriver manager ======
+2021-03-31 22:15:55,484 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-31 22:15:55,486 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-31 22:15:55,999 WDM INFO Driver [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23/chromedriver] found in cache
+2021-03-31 22:17:47,99 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-31 22:17:47,100 WDM INFO ====== WebDriver manager ======
+2021-03-31 22:17:47,180 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-31 22:17:47,181 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-31 22:17:47,482 WDM INFO Driver [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23/chromedriver] found in cache
+2021-03-31 22:18:55,662 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-31 22:18:55,663 WDM INFO ====== WebDriver manager ======
+2021-03-31 22:18:55,719 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-31 22:18:55,719 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-31 22:18:56,120 WDM INFO Driver [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23/chromedriver] found in cache
+2021-03-31 22:20:00,661 root INFO STARTING LOGGING at Machine: pc-home
+2021-03-31 22:20:00,662 WDM INFO ====== WebDriver manager ======
+2021-03-31 22:20:00,728 WDM INFO Current google-chrome version is 89.0.4389
+2021-03-31 22:20:00,728 WDM INFO Get LATEST driver version for 89.0.4389
+2021-03-31 22:20:01,12 WDM INFO Driver [/home/stanlee321/.wdm/drivers/chromedriver/linux64/89.0.4389.23/chromedriver] found in cache

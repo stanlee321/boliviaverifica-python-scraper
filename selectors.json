@@ -1,0 +1,14 @@
+{
+    "base_link": "https://boliviaverifica.bo/",
+    "post_img": ".//*[@class='post-img']",
+    "thumb-zoom" : ".//*[@class='thumb-zoom']",
+    "nav-links":  ".//*[@class='nav-links']",
+    "page-numbers":".//*[@class='page-numbers']",
+    "entry-header": ".//*[@class='entry-header']",
+    "entry-title": ".//*[@class='entry-title']",
+    "posted-on": ".//*[@class='posted-on']",
+    "post-view": ".//*[@class='post-view']",
+    "entry-content clearfix" : ".//*[@class='entry-content clearfix']",
+    "style-text": ".//*[contains(@style,'text-align: justify;')]"
+
+}
